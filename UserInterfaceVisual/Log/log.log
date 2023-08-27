@@ -1,0 +1,675 @@
+2023-08-27 19:18:43 DEBUG - Get settings from: settings.json
+2023-08-27 19:18:45 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:18:45 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:18:45 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:18:45 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:18:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:18:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:18:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:18:50 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:18:52 INFO - Browser 'Chrome' ready...
+2023-08-27 19:18:52 INFO - Maximizing browser window
+2023-08-27 19:18:52 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:18:57 INFO - Waiting for page to load
+2023-08-27 19:18:59 INFO - Closing browser
+2023-08-27 19:19:01 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:19:01 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:19:01 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:19:01 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:19:03 INFO - Browser 'Chrome' ready...
+2023-08-27 19:19:03 INFO - Maximizing browser window
+2023-08-27 19:19:04 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:19:08 INFO - Waiting for page to load
+2023-08-27 19:19:09 INFO - Closing browser
+2023-08-27 19:19:36 DEBUG - Get settings from: settings.json
+2023-08-27 19:19:39 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:19:39 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:19:39 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:19:39 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:19:41 INFO - Browser 'Chrome' ready...
+2023-08-27 19:19:41 INFO - Maximizing browser window
+2023-08-27 19:19:41 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:19:46 INFO - Waiting for page to load
+2023-08-27 19:19:46 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:19:46 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:19:46 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:19:47 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:19:48 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:19:48 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:19:48 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:19:48 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:19:48 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:19:48 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:19:49 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:19:49 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:19:49 INFO - Refreshing the page
+2023-08-27 19:19:50 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 19:19:51 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 19:19:51 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 19:19:51 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 19:19:51 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 19:19:51 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 19:19:52 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 19:19:52 INFO - Closing browser
+2023-08-27 19:19:55 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:19:55 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:19:55 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:19:55 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:19:57 INFO - Browser 'Chrome' ready...
+2023-08-27 19:19:57 INFO - Maximizing browser window
+2023-08-27 19:19:57 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:20:02 INFO - Waiting for page to load
+2023-08-27 19:20:03 INFO - Closing browser
+2023-08-27 19:20:05 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:20:05 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:20:05 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:20:05 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:20:07 INFO - Browser 'Chrome' ready...
+2023-08-27 19:20:07 INFO - Maximizing browser window
+2023-08-27 19:20:07 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:20:12 INFO - Waiting for page to load
+2023-08-27 19:20:12 INFO - Closing browser
+2023-08-27 19:21:27 DEBUG - Get settings from: settings.json
+2023-08-27 19:21:29 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:21:29 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:21:29 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:21:29 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:21:31 INFO - Browser 'Chrome' ready...
+2023-08-27 19:21:31 INFO - Maximizing browser window
+2023-08-27 19:21:31 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:21:36 INFO - Waiting for page to load
+2023-08-27 19:21:37 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:21:37 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:21:37 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:21:37 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:21:38 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:21:38 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:21:38 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:21:38 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:21:38 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:21:38 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:21:39 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:21:39 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:21:39 INFO - Refreshing the page
+2023-08-27 19:21:40 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 19:21:41 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 19:21:41 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 19:21:41 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 19:21:42 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 19:21:42 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 19:21:42 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 19:21:42 INFO - Closing browser
+2023-08-27 19:21:45 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:21:45 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:21:45 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:21:45 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:21:47 INFO - Browser 'Chrome' ready...
+2023-08-27 19:21:47 INFO - Maximizing browser window
+2023-08-27 19:21:47 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:21:51 INFO - Waiting for page to load
+2023-08-27 19:21:52 INFO - Closing browser
+2023-08-27 19:21:55 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:21:55 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:21:55 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:21:55 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:21:57 INFO - Browser 'Chrome' ready...
+2023-08-27 19:21:57 INFO - Maximizing browser window
+2023-08-27 19:21:57 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:22:01 INFO - Waiting for page to load
+2023-08-27 19:22:02 INFO - Closing browser
+2023-08-27 19:23:35 DEBUG - Get settings from: settings.json
+2023-08-27 19:23:37 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:23:37 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:23:37 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:23:37 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:23:39 INFO - Browser 'Chrome' ready...
+2023-08-27 19:23:39 INFO - Maximizing browser window
+2023-08-27 19:23:39 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:23:43 INFO - Waiting for page to load
+2023-08-27 19:23:44 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:23:44 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:23:44 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:23:45 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:23:45 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:23:45 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:23:46 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:23:46 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:23:46 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:23:46 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:23:46 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:23:47 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:23:47 INFO - Refreshing the page
+2023-08-27 19:23:48 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 19:23:49 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 19:23:49 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 19:23:49 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 19:23:49 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 19:23:49 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 19:23:50 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 19:23:50 INFO - Closing browser
+2023-08-27 19:23:52 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:23:52 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:23:52 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:23:52 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:23:55 INFO - Browser 'Chrome' ready...
+2023-08-27 19:23:55 INFO - Maximizing browser window
+2023-08-27 19:23:55 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:24:00 INFO - Waiting for page to load
+2023-08-27 19:24:01 INFO - Closing browser
+2023-08-27 19:24:05 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:24:05 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:24:05 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:24:05 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:24:07 INFO - Closing browser
+2023-08-27 19:24:35 DEBUG - Get settings from: settings.json
+2023-08-27 19:24:37 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:24:37 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:24:37 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:24:37 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:24:39 INFO - Browser 'Chrome' ready...
+2023-08-27 19:24:39 INFO - Maximizing browser window
+2023-08-27 19:24:40 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:24:46 INFO - Waiting for page to load
+2023-08-27 19:24:46 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:24:46 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:24:47 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:24:47 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:24:48 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:24:48 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:24:48 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:24:48 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:24:48 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:24:48 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:24:49 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:24:49 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:24:49 INFO - Refreshing the page
+2023-08-27 19:24:50 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 19:24:51 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 19:24:51 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 19:24:51 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 19:24:52 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 19:24:52 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 19:24:52 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 19:24:52 INFO - Closing browser
+2023-08-27 19:24:54 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:24:54 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:24:54 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:24:54 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:24:57 INFO - Closing browser
+2023-08-27 19:24:59 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:24:59 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:24:59 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:24:59 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:25:01 INFO - Browser 'Chrome' ready...
+2023-08-27 19:25:01 INFO - Maximizing browser window
+2023-08-27 19:25:01 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:25:07 INFO - Waiting for page to load
+2023-08-27 19:25:08 INFO - Closing browser
+2023-08-27 19:25:21 DEBUG - Get settings from: settings.json
+2023-08-27 19:25:23 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:25:23 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:25:23 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:25:23 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:25:26 INFO - Browser 'Chrome' ready...
+2023-08-27 19:25:26 INFO - Maximizing browser window
+2023-08-27 19:25:26 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:25:31 INFO - Waiting for page to load
+2023-08-27 19:25:31 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:25:31 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:25:31 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:25:32 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:25:32 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:25:32 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:25:33 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:25:33 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:25:33 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:25:33 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:25:34 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:25:34 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:25:38 INFO - Closing browser
+2023-08-27 19:25:40 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:25:40 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:25:40 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:25:40 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:25:42 INFO - Browser 'Chrome' ready...
+2023-08-27 19:25:42 INFO - Maximizing browser window
+2023-08-27 19:25:43 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:25:47 INFO - Waiting for page to load
+2023-08-27 19:25:48 INFO - Closing browser
+2023-08-27 19:25:51 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:25:51 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:25:51 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:25:51 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:25:53 INFO - Browser 'Chrome' ready...
+2023-08-27 19:25:53 INFO - Maximizing browser window
+2023-08-27 19:25:54 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:25:58 INFO - Waiting for page to load
+2023-08-27 19:25:59 INFO - Closing browser
+2023-08-27 19:27:05 DEBUG - Get settings from: settings.json
+2023-08-27 19:27:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:27:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:27:08 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:27:08 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:27:10 INFO - Browser 'Chrome' ready...
+2023-08-27 19:27:10 INFO - Maximizing browser window
+2023-08-27 19:27:10 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:27:15 INFO - Waiting for page to load
+2023-08-27 19:27:15 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:27:16 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:27:16 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:27:16 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:27:17 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:27:17 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:27:17 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:27:18 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:27:18 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:27:18 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:27:18 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:27:18 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:27:19 INFO - Refreshing the page
+2023-08-27 19:27:20 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 19:27:21 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 19:27:21 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 19:27:21 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 19:27:21 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 19:27:21 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 19:27:22 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 19:27:22 INFO - Closing browser
+2023-08-27 19:27:24 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:27:24 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:27:24 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:27:24 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:27:26 INFO - Browser 'Chrome' ready...
+2023-08-27 19:27:26 INFO - Maximizing browser window
+2023-08-27 19:27:26 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:27:31 INFO - Waiting for page to load
+2023-08-27 19:27:31 INFO - Closing browser
+2023-08-27 19:27:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:27:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:27:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:27:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:27:36 INFO - Browser 'Chrome' ready...
+2023-08-27 19:27:36 INFO - Maximizing browser window
+2023-08-27 19:27:36 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:27:40 INFO - Waiting for page to load
+2023-08-27 19:27:41 INFO - Closing browser
+2023-08-27 19:28:02 DEBUG - Get settings from: settings.json
+2023-08-27 19:28:04 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:28:04 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:28:04 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:28:04 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:28:06 INFO - Browser 'Chrome' ready...
+2023-08-27 19:28:06 INFO - Maximizing browser window
+2023-08-27 19:28:06 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:28:20 INFO - Waiting for page to load
+2023-08-27 19:28:20 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 19:28:20 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:28:20 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 19:28:21 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:28:21 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 19:28:21 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 19:28:22 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 19:28:22 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 19:28:22 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 19:28:22 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 19:28:23 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 19:28:23 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 19:28:27 INFO - Closing browser
+2023-08-27 19:28:29 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:28:29 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:28:29 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:28:29 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:28:32 INFO - Browser 'Chrome' ready...
+2023-08-27 19:28:32 INFO - Maximizing browser window
+2023-08-27 19:28:32 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:28:38 INFO - Waiting for page to load
+2023-08-27 19:28:39 INFO - Closing browser
+2023-08-27 19:28:41 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 19:28:41 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 19:28:41 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 19:28:41 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 19:28:43 INFO - Browser 'Chrome' ready...
+2023-08-27 19:28:43 INFO - Maximizing browser window
+2023-08-27 19:28:44 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 19:28:49 INFO - Waiting for page to load
+2023-08-27 19:28:50 INFO - Closing browser
+2023-08-27 20:05:57 DEBUG - Get settings from: settings.json
+2023-08-27 20:06:02 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:06:02 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:06:02 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:06:02 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:06:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:06:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:06:07 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:06:07 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:06:10 INFO - Browser 'Chrome' ready...
+2023-08-27 20:06:10 INFO - Maximizing browser window
+2023-08-27 20:06:11 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 20:06:23 INFO - Waiting for page to load
+2023-08-27 20:06:25 INFO - Closing browser
+2023-08-27 20:06:28 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:06:28 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:06:28 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:06:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:06:29 INFO - Browser 'Chrome' ready...
+2023-08-27 20:06:29 INFO - Maximizing browser window
+2023-08-27 20:06:30 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 20:06:40 INFO - Closing browser
+2023-08-27 20:07:00 DEBUG - Get settings from: settings.json
+2023-08-27 20:07:02 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:07:02 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:07:02 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:07:03 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:07:05 INFO - Browser 'Chrome' ready...
+2023-08-27 20:07:05 INFO - Maximizing browser window
+2023-08-27 20:07:05 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 20:07:09 INFO - Waiting for page to load
+2023-08-27 20:07:10 INFO - Label 'Main Page' :: Waiting for element to be displayed
+2023-08-27 20:07:10 INFO - Button 'Create New Unit Button' :: Waiting for element to be clickable
+2023-08-27 20:07:10 INFO - Button 'Create New Unit Button' :: Clicking
+2023-08-27 20:07:11 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 20:07:11 INFO - Text Field 'Company Name text field' :: Waiting for element to be clickable
+2023-08-27 20:07:11 INFO - Text Field 'Company Name text field' :: Sending keys 'Acomputers Company'
+2023-08-27 20:07:12 INFO - Text Field 'Dropdown List with unit types' :: Waiting for element to be clickable
+2023-08-27 20:07:12 INFO - Text Field 'Dropdown List with unit types' :: Clicking
+2023-08-27 20:07:12 INFO - Text Field 'Parent Unit Input Field' :: Waiting for element to be displayed
+2023-08-27 20:07:12 INFO - Text Field 'Parent Unit Input Field' :: Sending keys '8e1daa5e-d974-40c0-926b-8bda8770624c'
+2023-08-27 20:07:13 INFO - Button 'Create Unit Button' :: Waiting for element to be clickable
+2023-08-27 20:07:13 INFO - Button 'Create Unit Button' :: Clicking
+2023-08-27 20:07:13 INFO - Refreshing the page
+2023-08-27 20:07:14 INFO - ComboBox 'Acomputers Compamy' :: Waiting for element to be displayed
+2023-08-27 20:07:15 INFO - Text Field 'Search Box' :: Waiting for element to be displayed
+2023-08-27 20:07:15 INFO - Text Field 'Search Box' :: Sending keys 'Acomputers Company'
+2023-08-27 20:07:15 INFO - ComboBox 'Acomputers Compamy' :: Getting text from element
+2023-08-27 20:07:15 INFO - ComboBox 'Acomputers Compamy' :: Element's text: [Acomputers Company]
+2023-08-27 20:07:15 INFO - Text Field 'Copmany Type' :: Getting text from element
+2023-08-27 20:07:16 INFO - Text Field 'Copmany Type' :: Element's text: [department]
+2023-08-27 20:07:16 INFO - Closing browser
+2023-08-27 20:07:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:07:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:07:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:07:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:07:21 INFO - Browser 'Chrome' ready...
+2023-08-27 20:07:21 INFO - Maximizing browser window
+2023-08-27 20:07:21 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 20:07:27 INFO - Waiting for page to load
+2023-08-27 20:07:28 INFO - Closing browser
+2023-08-27 20:07:31 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ./downloads
+2023-08-27 20:07:31 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: default
+2023-08-27 20:07:31 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2023-08-27 20:07:31 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2023-08-27 20:07:33 INFO - Browser 'Chrome' ready...
+2023-08-27 20:07:33 INFO - Maximizing browser window
+2023-08-27 20:07:33 INFO - Navigate to URL - 'https://demo.u-system.tech/dicts/ou'
+2023-08-27 20:07:38 INFO - Waiting for page to load
+2023-08-27 20:07:39 INFO - Closing browser
